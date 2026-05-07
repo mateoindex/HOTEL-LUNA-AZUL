@@ -1,0 +1,30 @@
+:root {
+  /* tintas */
+  --ink: #1a1a1a;
+  --ink-soft: #4a4a4a;
+  --ink-mute: #9a9a9a;
+
+  /* fondos */
+  --paper: #faf7f2;
+  --paper-warm: #f4ede1;
+  --paper-card: #ffffff;
+
+  /* acentos - usar con moderacion */
+  --brass: #b08d57;
+  --brass-deep: #8a6d40;
+  --terracotta: #c45a3e;
+  --sage: #7a8471;
+
+  /* hairlines */
+  --line: #e8e0d2;
+  --line-strong: #c9beac;
+
+  /* tipo */
+  --font-display: 'Fraunces', Georgia, serif;
+  --font-ui: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Courier New', monospace;
+
+  /* layout */
+  --sidebar-w: 240px;
+  --content-pad: 56px 72px 80px 72px;
+}

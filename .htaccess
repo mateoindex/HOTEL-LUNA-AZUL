@@ -1,0 +1,10 @@
+# redirige todo a /public
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^(.*)$ public/$1 [L]
+</IfModule>
+
+# bloquea acceso a carpetas sensibles si alguien apunta a la raiz
+<FilesMatch "^(composer\.(json|lock)|\.env|PLAN\.md)$">
+    Require all denied
+</FilesMatch>

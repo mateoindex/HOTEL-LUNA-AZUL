@@ -1,0 +1,594 @@
+[
+    {
+        "id": "0B5BBD390F80EBD6",
+        "ts": "2026-05-07T13:12:20-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mej??a",
+            "role": "superadmin"
+        },
+        "action": "auth.login.success",
+        "entity": {
+            "type": "user",
+            "id": 1
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT; Windows NT 10.0; es-CO) WindowsPowerShell\/5.1.26100.8115",
+        "data": []
+    },
+    {
+        "id": "5338FA62583F47BC",
+        "ts": "2026-05-07T13:14:17-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mej??a",
+            "role": "superadmin"
+        },
+        "action": "auth.login.success",
+        "entity": {
+            "type": "user",
+            "id": 1
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT; Windows NT 10.0; es-CO) WindowsPowerShell\/5.1.26100.8115",
+        "data": []
+    },
+    {
+        "id": "ADF043AFDC03CB18",
+        "ts": "2026-05-07T13:18:58-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mej??a",
+            "role": "superadmin"
+        },
+        "action": "auth.login.success",
+        "entity": {
+            "type": "user",
+            "id": 1
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT; Windows NT 10.0; es-CO) WindowsPowerShell\/5.1.26100.8115",
+        "data": []
+    },
+    {
+        "id": "71F5F63112628CD4",
+        "ts": "2026-05-07T13:19:08-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mej??a",
+            "role": "superadmin"
+        },
+        "action": "auth.login.success",
+        "entity": {
+            "type": "user",
+            "id": 1
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT; Windows NT 10.0; es-CO) WindowsPowerShell\/5.1.26100.8115",
+        "data": []
+    },
+    {
+        "id": "6F081D7B3A3B4B4B",
+        "ts": "2026-05-07T13:20:15-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mej??a",
+            "role": "superadmin"
+        },
+        "action": "auth.login.success",
+        "entity": {
+            "type": "user",
+            "id": 1
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT; Windows NT 10.0; es-CO) WindowsPowerShell\/5.1.26100.8115",
+        "data": []
+    },
+    {
+        "id": "BF31C9C49FD3BDB6",
+        "ts": "2026-05-07T13:25:47-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mej??a",
+            "role": "superadmin"
+        },
+        "action": "auth.login.success",
+        "entity": {
+            "type": "user",
+            "id": 1
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT; Windows NT 10.0; es-CO) WindowsPowerShell\/5.1.26100.8115",
+        "data": []
+    },
+    {
+        "id": "9F993A43E8172C5F",
+        "ts": "2026-05-07T13:25:48-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mej??a",
+            "role": "superadmin"
+        },
+        "action": "report.generate",
+        "entity": {
+            "type": "reservation",
+            "id": 7,
+            "code": "LA-2026-0007"
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT; Windows NT 10.0; es-CO) WindowsPowerShell\/5.1.26100.8115",
+        "data": {
+            "kind": "voucher",
+            "file": "voucher-LA-2026-0007.pdf"
+        }
+    },
+    {
+        "id": "30BD4D68E4500E0A",
+        "ts": "2026-05-07T13:25:48-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mej??a",
+            "role": "superadmin"
+        },
+        "action": "report.generate",
+        "entity": {
+            "type": "system",
+            "id": 0
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT; Windows NT 10.0; es-CO) WindowsPowerShell\/5.1.26100.8115",
+        "data": {
+            "kind": "occupancy",
+            "start": "2026-05-01",
+            "days": 30,
+            "file": "ocupacion-2026-05-01.pdf"
+        }
+    },
+    {
+        "id": "6E35860176A544BD",
+        "ts": "2026-05-07T13:26:13-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mej??a",
+            "role": "superadmin"
+        },
+        "action": "auth.login.success",
+        "entity": {
+            "type": "user",
+            "id": 1
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT; Windows NT 10.0; es-CO) WindowsPowerShell\/5.1.26100.8115",
+        "data": []
+    },
+    {
+        "id": "48588AEAF28BF42B",
+        "ts": "2026-05-07T13:26:14-05:00",
+        "actor": {
+            "id": 2,
+            "name": "Andr??s Torres",
+            "role": "admin"
+        },
+        "action": "auth.login.success",
+        "entity": {
+            "type": "user",
+            "id": 2
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT; Windows NT 10.0; es-CO) WindowsPowerShell\/5.1.26100.8115",
+        "data": []
+    },
+    {
+        "id": "F892F555F425A171",
+        "ts": "2026-05-07T13:26:15-05:00",
+        "actor": {
+            "id": 3,
+            "name": "Daniela R??os",
+            "role": "recepcionista"
+        },
+        "action": "auth.login.success",
+        "entity": {
+            "type": "user",
+            "id": 3
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT; Windows NT 10.0; es-CO) WindowsPowerShell\/5.1.26100.8115",
+        "data": []
+    },
+    {
+        "id": "6E24D496AE33B07B",
+        "ts": "2026-05-07T13:26:46-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mej??a",
+            "role": "superadmin"
+        },
+        "action": "auth.login.success",
+        "entity": {
+            "type": "user",
+            "id": 1
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT; Windows NT 10.0; es-CO) WindowsPowerShell\/5.1.26100.8115",
+        "data": []
+    },
+    {
+        "id": "D42832986F2CE7DB",
+        "ts": "2026-05-07T13:26:47-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mej??a",
+            "role": "superadmin"
+        },
+        "action": "guest.create",
+        "entity": {
+            "type": "guest",
+            "id": 19
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT; Windows NT 10.0; es-CO) WindowsPowerShell\/5.1.26100.8115",
+        "data": {
+            "document": "99999111",
+            "name": "Test Smoke"
+        }
+    },
+    {
+        "id": "BDDE9A4379D17E51",
+        "ts": "2026-05-07T13:26:47-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mej??a",
+            "role": "superadmin"
+        },
+        "action": "reservation.create",
+        "entity": {
+            "type": "reservation",
+            "id": 16,
+            "code": "LA-2026-0016"
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT; Windows NT 10.0; es-CO) WindowsPowerShell\/5.1.26100.8115",
+        "data": {
+            "guest_id": 17,
+            "room_id": 1,
+            "check_in": "2026-06-25",
+            "check_out": "2026-06-28",
+            "total": 960000
+        }
+    },
+    {
+        "id": "13F9ABE23278CE8D",
+        "ts": "2026-05-07T13:28:56-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mej??a",
+            "role": "superadmin"
+        },
+        "action": "auth.login.success",
+        "entity": {
+            "type": "user",
+            "id": 1
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT; Windows NT 10.0; es-CO) WindowsPowerShell\/5.1.26100.8115",
+        "data": []
+    },
+    {
+        "id": "21EBADD517D30CC7",
+        "ts": "2026-05-07T13:32:25-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mej??a",
+            "role": "superadmin"
+        },
+        "action": "auth.login.success",
+        "entity": {
+            "type": "user",
+            "id": 1
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/147.0.0.0 Safari\/537.36",
+        "data": []
+    },
+    {
+        "id": "B907D799AE6502CD",
+        "ts": "2026-05-07T13:34:41-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mej??a",
+            "role": "superadmin"
+        },
+        "action": "auth.login.success",
+        "entity": {
+            "type": "user",
+            "id": 1
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT; Windows NT 10.0; es-CO) WindowsPowerShell\/5.1.26100.8115",
+        "data": []
+    },
+    {
+        "id": "10E1B2B66C338293",
+        "ts": "2026-05-07T13:41:50-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mejía",
+            "role": "superadmin"
+        },
+        "action": "auth.login.success",
+        "entity": {
+            "type": "user",
+            "id": 1
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT; Windows NT 10.0; es-CO) WindowsPowerShell\/5.1.26100.8115",
+        "data": []
+    },
+    {
+        "id": "34F63A7DF6D0F15E",
+        "ts": "2026-05-07T13:43:04-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mejía",
+            "role": "superadmin"
+        },
+        "action": "auth.logout",
+        "entity": {
+            "type": "user",
+            "id": 1
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/147.0.0.0 Safari\/537.36",
+        "data": []
+    },
+    {
+        "id": "0DD56BF3890D6D9E",
+        "ts": "2026-05-07T13:43:12-05:00",
+        "actor": {
+            "id": 0,
+            "name": "invitado",
+            "role": "guest"
+        },
+        "action": "auth.login.failed",
+        "entity": {
+            "type": "user",
+            "id": 0
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/147.0.0.0 Safari\/537.36",
+        "data": {
+            "email": "sadasdasdasd@adsadasda.com"
+        }
+    },
+    {
+        "id": "E9142F317E012476",
+        "ts": "2026-05-07T13:43:15-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mejía",
+            "role": "superadmin"
+        },
+        "action": "auth.login.success",
+        "entity": {
+            "type": "user",
+            "id": 1
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/147.0.0.0 Safari\/537.36",
+        "data": []
+    },
+    {
+        "id": "B0B5525C77083878",
+        "ts": "2026-05-07T13:43:29-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mejía",
+            "role": "superadmin"
+        },
+        "action": "auth.logout",
+        "entity": {
+            "type": "user",
+            "id": 1
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/147.0.0.0 Safari\/537.36",
+        "data": []
+    },
+    {
+        "id": "345EB53C54583C42",
+        "ts": "2026-05-07T13:43:36-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mejía",
+            "role": "superadmin"
+        },
+        "action": "auth.login.success",
+        "entity": {
+            "type": "user",
+            "id": 1
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/147.0.0.0 Safari\/537.36",
+        "data": []
+    },
+    {
+        "id": "6A48E5804BED56F6",
+        "ts": "2026-05-07T13:45:23-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mejía",
+            "role": "superadmin"
+        },
+        "action": "report.generate",
+        "entity": {
+            "type": "system",
+            "id": 0
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/147.0.0.0 Safari\/537.36",
+        "data": {
+            "kind": "occupancy",
+            "start": "2026-05-01",
+            "days": 30,
+            "file": "ocupacion-2026-05-01.pdf"
+        }
+    },
+    {
+        "id": "373050EC8CE7C000",
+        "ts": "2026-05-07T13:45:50-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mejía",
+            "role": "superadmin"
+        },
+        "action": "auth.logout",
+        "entity": {
+            "type": "user",
+            "id": 1
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/147.0.0.0 Safari\/537.36",
+        "data": []
+    },
+    {
+        "id": "DFC5B52B981DFB06",
+        "ts": "2026-05-07T13:46:17-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mejía",
+            "role": "superadmin"
+        },
+        "action": "auth.login.success",
+        "entity": {
+            "type": "user",
+            "id": 1
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/147.0.0.0 Safari\/537.36",
+        "data": []
+    },
+    {
+        "id": "093BEA3F812770D4",
+        "ts": "2026-05-07T13:46:52-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mejía",
+            "role": "superadmin"
+        },
+        "action": "auth.logout",
+        "entity": {
+            "type": "user",
+            "id": 1
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/147.0.0.0 Safari\/537.36",
+        "data": []
+    },
+    {
+        "id": "A2CA99D2275709DA",
+        "ts": "2026-05-07T13:54:26-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mejía",
+            "role": "superadmin"
+        },
+        "action": "auth.login.success",
+        "entity": {
+            "type": "user",
+            "id": 1
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/147.0.0.0 Safari\/537.36",
+        "data": []
+    },
+    {
+        "id": "461F78ED1F43F950",
+        "ts": "2026-05-07T13:54:29-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mejía",
+            "role": "superadmin"
+        },
+        "action": "auth.logout",
+        "entity": {
+            "type": "user",
+            "id": 1
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/147.0.0.0 Safari\/537.36",
+        "data": []
+    },
+    {
+        "id": "A23F12B2C2C4F815",
+        "ts": "2026-05-07T17:23:24-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mejía",
+            "role": "superadmin"
+        },
+        "action": "auth.login.success",
+        "entity": {
+            "type": "user",
+            "id": 1
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/147.0.0.0 Safari\/537.36",
+        "data": []
+    },
+    {
+        "id": "69D2C27457D8E04F",
+        "ts": "2026-05-07T17:23:47-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mejía",
+            "role": "superadmin"
+        },
+        "action": "report.generate",
+        "entity": {
+            "type": "system",
+            "id": 0
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/147.0.0.0 Safari\/537.36",
+        "data": {
+            "kind": "occupancy",
+            "start": "2026-05-01",
+            "days": 30,
+            "file": "ocupacion-2026-05-01.pdf"
+        }
+    },
+    {
+        "id": "0D39C33D157D842A",
+        "ts": "2026-05-07T17:25:26-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mejía",
+            "role": "superadmin"
+        },
+        "action": "auth.logout",
+        "entity": {
+            "type": "user",
+            "id": 1
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/147.0.0.0 Safari\/537.36",
+        "data": []
+    },
+    {
+        "id": "2C3F76B87A7D490F",
+        "ts": "2026-05-07T18:49:17-05:00",
+        "actor": {
+            "id": 1,
+            "name": "Carolina Mejía",
+            "role": "superadmin"
+        },
+        "action": "auth.login.success",
+        "entity": {
+            "type": "user",
+            "id": 1
+        },
+        "ip": "127.0.0.1",
+        "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/147.0.0.0 Safari\/537.36 Edg\/147.0.0.0",
+        "data": []
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "name": "hotel-luna-azul/app",
+    "description": "Sistema interno de gestion para Hotel Luna Azul",
+    "type": "project",
+    "require": {
+        "php": ">=8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "app/Core/helpers.php"
+        ]
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
